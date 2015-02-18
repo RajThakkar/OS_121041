@@ -1,0 +1,2853 @@
+1
+2
+3
+4
+5
+ubuntu
+ubuntu
+4	./Pictures
+8	./.dbus/session-bus
+12	./.dbus
+4	./.config/enchant
+16	./.config/gedit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+8	./.config/nautilus
+8	./.config/update-notifier
+4	./.config/software-center
+8	./.config/libreoffice/3/user/autotext
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+56	./.config/libreoffice/3/user/uno_packages/cache
+60	./.config/libreoffice/3/user/uno_packages
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+44	./.config/libreoffice/3/user/psprint
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/wordbook
+892	./.config/libreoffice/3/user/database/biblio
+900	./.config/libreoffice/3/user/database
+36	./.config/libreoffice/3/user/backup
+20	./.config/libreoffice/3/user/gallery
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+32	./.config/libreoffice/3/user/config/soffice.cfg
+436	./.config/libreoffice/3/user/config
+16	./.config/libreoffice/3/user/basic/Standard
+28	./.config/libreoffice/3/user/basic
+4	./.config/libreoffice/3/user/Scripts
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+68	./.config/libreoffice/3/user/extensions/bundled
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/extensions/shared/registry
+56	./.config/libreoffice/3/user/extensions/shared
+128	./.config/libreoffice/3/user/extensions
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+4	./.config/gnome-disk-utility/ata-smart-ignore
+8	./.config/gnome-disk-utility
+12	./.config/dconf
+4	./.config/ibus/bus
+8	./.config/ibus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+4	./.config/goa-1.0
+4	./.config/compiz-1/compizconfig
+8	./.config/compiz-1
+1828	./.config
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/extensions
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+67692	./.mozilla/firefox/m6g11jws.default
+8	./.mozilla/firefox/Crash Reports
+67708	./.mozilla/firefox
+4	./.mozilla/extensions
+67716	./.mozilla
+8	./.mission-control/accounts
+12	./.mission-control
+1428	./.local/share/zeitgeist/fts.index
+2808	./.local/share/zeitgeist
+28	./.local/share/webkit/icondatabase
+32	./.local/share/webkit
+16	./.local/share/Trash/files
+4	./.local/share/Trash/expunged
+12	./.local/share/Trash/info
+36	./.local/share/Trash
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/icc
+192	./.local/share/gvfs-metadata
+3120	./.local/share
+3124	./.local
+32	./.pulse
+8	./.gconf/apps/deja-dup/s3
+16	./.gconf/apps/deja-dup
+8	./.gconf/apps/nautilus/preferences
+12	./.gconf/apps/nautilus
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+36	./.gconf/apps/gedit-2/preferences/editor
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+12	./.gconf/apps/gedit-2/preferences/ui
+52	./.gconf/apps/gedit-2/preferences
+64	./.gconf/apps/gedit-2
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+28	./.gconf/apps/metacity
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+16	./.gconf/apps/compiz-1/plugins/unityshell
+36	./.gconf/apps/compiz-1/plugins
+8	./.gconf/apps/compiz-1/general/screen0/options
+12	./.gconf/apps/compiz-1/general/screen0
+16	./.gconf/apps/compiz-1/general
+56	./.gconf/apps/compiz-1
+8	./.gconf/apps/nm-applet
+228	./.gconf/apps
+8	./.gconf/desktop/gnome/background
+12	./.gconf/desktop/gnome
+16	./.gconf/desktop
+248	./.gconf
+32	./.fontconfig
+12	./.gnome2/keyrings
+4	./.gnome2/nautilus-scripts
+20	./.gnome2
+4	./Music
+4	./Documents
+332	./.thumbnails/normal
+12	./.thumbnails/fail/gnome-thumbnail-factory
+16	./.thumbnails/fail
+352	./.thumbnails
+44	./OS/lab4
+104	./OS
+4	./Public
+20	./Desktop/tic ctac toe
+12	./Desktop/OS/L4
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+76	./Desktop/OS/Lab3
+8976	./Desktop/OS
+9080	./Desktop
+356	./CN_lab
+8	./.cache/update-manager-core
+8	./.cache/unity
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+60	./.cache/oneconf
+28	./.cache/sso
+448	./.cache/software-center/download-cache
+3664	./.cache/software-center/piston-helper
+4	./.cache/software-center/rnrclient
+48	./.cache/software-center/icons
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+6152	./.cache/software-center/software-center-agent.db
+12588	./.cache/software-center
+116	./.cache/compizconfig-1
+8	./.cache/ubuntuone/log
+12	./.cache/ubuntuone
+8	./.cache/indicators/messages
+12	./.cache/indicators
+4	./.cache/gvfs-burn
+8	./.cache/indicator-appmenu
+4	./.cache/dconf
+4	./.cache/indicator/sound/album-art-cache
+8	./.cache/indicator/sound
+12	./.cache/indicator
+8	./.cache/unity-lens-video
+464	./.cache/wallpaper
+13336	./.cache
+4	./Downloads
+4	./Templates
+24	./.compiz-1/session
+28	./.compiz-1
+388	./.gstreamer-0.10
+4	./Videos
+0	./.gvfs
+98196	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda1        6273620 2809800   3149248  48% /
+udev             1023256       4   1023252   1% /dev
+tmpfs             412212     792    411420   1% /run
+none                5120       0      5120   0% /run/lock
+none             1030528      76   1030452   1% /run/shm
+4	./Pictures
+8	./.dbus/session-bus
+12	./.dbus
+4	./.config/enchant
+16	./.config/gedit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+8	./.config/nautilus
+8	./.config/update-notifier
+4	./.config/software-center
+8	./.config/libreoffice/3/user/autotext
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+56	./.config/libreoffice/3/user/uno_packages/cache
+60	./.config/libreoffice/3/user/uno_packages
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+44	./.config/libreoffice/3/user/psprint
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/wordbook
+892	./.config/libreoffice/3/user/database/biblio
+900	./.config/libreoffice/3/user/database
+36	./.config/libreoffice/3/user/backup
+20	./.config/libreoffice/3/user/gallery
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+32	./.config/libreoffice/3/user/config/soffice.cfg
+436	./.config/libreoffice/3/user/config
+16	./.config/libreoffice/3/user/basic/Standard
+28	./.config/libreoffice/3/user/basic
+4	./.config/libreoffice/3/user/Scripts
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+68	./.config/libreoffice/3/user/extensions/bundled
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/extensions/shared/registry
+56	./.config/libreoffice/3/user/extensions/shared
+128	./.config/libreoffice/3/user/extensions
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+4	./.config/gnome-disk-utility/ata-smart-ignore
+8	./.config/gnome-disk-utility
+12	./.config/dconf
+4	./.config/ibus/bus
+8	./.config/ibus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+4	./.config/goa-1.0
+4	./.config/compiz-1/compizconfig
+8	./.config/compiz-1
+1828	./.config
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/extensions
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+67692	./.mozilla/firefox/m6g11jws.default
+8	./.mozilla/firefox/Crash Reports
+67708	./.mozilla/firefox
+4	./.mozilla/extensions
+67716	./.mozilla
+8	./.mission-control/accounts
+12	./.mission-control
+1428	./.local/share/zeitgeist/fts.index
+2808	./.local/share/zeitgeist
+28	./.local/share/webkit/icondatabase
+32	./.local/share/webkit
+16	./.local/share/Trash/files
+4	./.local/share/Trash/expunged
+12	./.local/share/Trash/info
+36	./.local/share/Trash
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/icc
+192	./.local/share/gvfs-metadata
+3120	./.local/share
+3124	./.local
+32	./.pulse
+8	./.gconf/apps/deja-dup/s3
+16	./.gconf/apps/deja-dup
+8	./.gconf/apps/nautilus/preferences
+12	./.gconf/apps/nautilus
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+36	./.gconf/apps/gedit-2/preferences/editor
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+12	./.gconf/apps/gedit-2/preferences/ui
+52	./.gconf/apps/gedit-2/preferences
+64	./.gconf/apps/gedit-2
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+28	./.gconf/apps/metacity
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+16	./.gconf/apps/compiz-1/plugins/unityshell
+36	./.gconf/apps/compiz-1/plugins
+8	./.gconf/apps/compiz-1/general/screen0/options
+12	./.gconf/apps/compiz-1/general/screen0
+16	./.gconf/apps/compiz-1/general
+56	./.gconf/apps/compiz-1
+8	./.gconf/apps/nm-applet
+228	./.gconf/apps
+8	./.gconf/desktop/gnome/background
+12	./.gconf/desktop/gnome
+16	./.gconf/desktop
+248	./.gconf
+32	./.fontconfig
+12	./.gnome2/keyrings
+4	./.gnome2/nautilus-scripts
+20	./.gnome2
+4	./Music
+4	./Documents
+332	./.thumbnails/normal
+12	./.thumbnails/fail/gnome-thumbnail-factory
+16	./.thumbnails/fail
+352	./.thumbnails
+44	./OS/lab4
+104	./OS
+4	./Public
+20	./Desktop/tic ctac toe
+12	./Desktop/OS/L4
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+76	./Desktop/OS/Lab3
+8976	./Desktop/OS
+9080	./Desktop
+356	./CN_lab
+8	./.cache/update-manager-core
+8	./.cache/unity
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+60	./.cache/oneconf
+28	./.cache/sso
+448	./.cache/software-center/download-cache
+3664	./.cache/software-center/piston-helper
+4	./.cache/software-center/rnrclient
+48	./.cache/software-center/icons
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+6152	./.cache/software-center/software-center-agent.db
+12588	./.cache/software-center
+116	./.cache/compizconfig-1
+8	./.cache/ubuntuone/log
+12	./.cache/ubuntuone
+8	./.cache/indicators/messages
+12	./.cache/indicators
+4	./.cache/gvfs-burn
+8	./.cache/indicator-appmenu
+4	./.cache/dconf
+4	./.cache/indicator/sound/album-art-cache
+8	./.cache/indicator/sound
+12	./.cache/indicator
+8	./.cache/unity-lens-video
+464	./.cache/wallpaper
+13336	./.cache
+4	./Downloads
+4	./Templates
+24	./.compiz-1/session
+28	./.compiz-1
+388	./.gstreamer-0.10
+4	./Videos
+0	./.gvfs
+98208	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda1        6273620 2809812   3149236  48% /
+udev             1023256       4   1023252   1% /dev
+tmpfs             412212     792    411420   1% /run
+none                5120       0      5120   0% /run/lock
+none             1030528      76   1030452   1% /run/shm
+raj      pts/1        2015-02-17 11:03 (:0)
+NAME     LINE         TIME             COMMENT
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+
+Usage:
+ whereis [options] file
+
+Options:
+ -f <file>  define search scope
+ -b         search only binaries
+ -B <dirs>  define binaries lookup path
+ -m         search only manual paths
+ -M <dirs>  define man lookup path
+ -s         search only sources path
+ -S <dirs>  define sources lookup path
+ -u         search from unusual enties
+ -V         output version information and exit
+ -h         display this help and exit
+
+See how to use file and dirs arguments from whereis(1) manual.
+f:
+f:
+raj      pts/1        :0               Tue Feb 17 11:03   still logged in   
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:02 - 12:36  (01:33)    
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:00 - 12:36  (01:35)    
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:34 - 12:36 (3+22:01)   
+raj      pts/1        :0               Fri Feb 13 14:34 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:32 - 12:36 (3+22:03)   
+raj      pts/1        :0               Wed Feb 11 23:29 - 00:52  (01:23)    
+raj      pts/0        :0               Wed Feb 11 23:22 - crash (1+15:10)   
+raj      pts/0        :0               Wed Feb 11 17:45 - 18:41  (00:55)    
+reboot   system boot  3.2.0-23-generic Wed Feb 11 16:13 - 12:36 (5+20:23)   
+raj      pts/0        :0               Wed Feb  4 22:35 - crash (6+17:37)   
+reboot   system boot  3.2.0-23-generic Wed Feb  4 22:33 - 12:36 (12+14:03)  
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:32 - 01:38  (02:06)    
+raj      pts/1        :0               Tue Feb  3 23:31 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:30 - 01:38  (02:08)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:40 - 11:40  (00:59)    
+raj      pts/0        :0               Tue Feb  3 10:39 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:38 - 11:40  (01:01)    
+
+wtmp begins Tue Feb  3 10:38:44 2015
+clientcp.c
+decrypt.c
+encrypt.c
+servercp.c
+simpleclient.c
+simpleserver.c
+ttclient.c
+ttserver.c
+UNEXPAND(1)                      User Commands                     UNEXPAND(1)
+
+
+
+NAME
+       unexpand - convert spaces to tabs
+
+SYNOPSIS
+       unexpand [OPTION]... [FILE]...
+
+DESCRIPTION
+       Convert  blanks in each FILE to tabs, writing to standard output.  With
+       no FILE, or when FILE is -, read standard input.
+
+       Mandatory arguments to long options are  mandatory  for  short  options
+       too.
+
+       -a, --all
+              convert all blanks, instead of just initial blanks
+
+       --first-only
+              convert only leading sequences of blanks (overrides -a)
+
+       -t, --tabs=N
+              have tabs N characters apart instead of 8 (enables -a)
+
+       -t, --tabs=LIST
+              use comma separated LIST of tab positions (enables -a)
+
+       --help display this help and exit
+
+       --version
+              output version information and exit
+
+AUTHOR
+       Written by David MacKenzie.
+
+REPORTING BUGS
+       Report unexpand bugs to bug-coreutils@gnu.org
+       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
+       General help using GNU software: <http://www.gnu.org/gethelp/>
+       Report    unexpand    translation   bugs   to   <http://translationpro‐
+       ject.org/team/>
+
+COPYRIGHT
+       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU
+       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+       This  is  free  software:  you  are free to change and redistribute it.
+       There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       expand(1)
+
+       The full documentation for unexpand is maintained as a Texinfo  manual.
+       If  the info and unexpand programs are properly installed at your site,
+       the command
+
+              info coreutils 'unexpand invocation'
+
+       should give you access to the complete manual.
+
+
+
+GNU coreutils 8.12.197-032bb    September 2011                     UNEXPAND(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	./.gvfs
+0	./.gvfs
+1
+104	./OS
+104	./OS
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+116	./.cache/compizconfig-1
+116	./.cache/compizconfig-1
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+12588	./.cache/software-center
+12588	./.cache/software-center
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+128	./.config/libreoffice/3/user/extensions
+128	./.config/libreoffice/3/user/extensions
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+12	./.cache/indicator
+12	./.cache/indicator
+12	./.cache/indicators
+12	./.cache/indicators
+12	./.cache/ubuntuone
+12	./.cache/ubuntuone
+12	./.config/dconf
+12	./.config/dconf
+12	./.config/gnome-control-center
+12	./.config/gnome-control-center
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+12	./.dbus
+12	./.dbus
+12	./Desktop/OS/L4
+12	./Desktop/OS/L4
+12	./.gconf/apps/compiz-1/general/screen0
+12	./.gconf/apps/compiz-1/general/screen0
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+12	./.gconf/apps/gedit-2/preferences/ui
+12	./.gconf/apps/gedit-2/preferences/ui
+12	./.gconf/apps/gnome-terminal/profiles
+12	./.gconf/apps/gnome-terminal/profiles
+12	./.gconf/apps/nautilus
+12	./.gconf/apps/nautilus
+12	./.gconf/desktop/gnome
+12	./.gconf/desktop/gnome
+12	./.gnome2/keyrings
+12	./.gnome2/keyrings
+12	./.local/share/telepathy
+12	./.local/share/telepathy
+12	./.local/share/Trash/info
+12	./.local/share/Trash/info
+12	./.mission-control
+12	./.mission-control
+12	./.thumbnails/fail/gnome-thumbnail-factory
+12	./.thumbnails/fail/gnome-thumbnail-factory
+13336	./.cache
+13336	./.cache
+1428	./.local/share/zeitgeist/fts.index
+1428	./.local/share/zeitgeist/fts.index
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+16	./.config/gedit
+16	./.config/gedit
+16	./.config/libreoffice/3/user/basic/Standard
+16	./.config/libreoffice/3/user/basic/Standard
+16	./.gconf/apps/compiz-1/general
+16	./.gconf/apps/compiz-1/general
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+16	./.gconf/apps/compiz-1/plugins/unityshell
+16	./.gconf/apps/compiz-1/plugins/unityshell
+16	./.gconf/apps/deja-dup
+16	./.gconf/apps/deja-dup
+16	./.gconf/apps/gnome-terminal
+16	./.gconf/apps/gnome-terminal
+16	./.gconf/desktop
+16	./.gconf/desktop
+16	./.local/share/Trash/files
+16	./.local/share/Trash/files
+16	./.thumbnails/fail
+16	./.thumbnails/fail
+1704	./.config/libreoffice/3/user
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+1716	./.config/libreoffice
+1828	./.config
+1828	./.config
+192	./.local/share/gvfs-metadata
+192	./.local/share/gvfs-metadata
+2
+20	./.config/libreoffice/3/user/gallery
+20	./.config/libreoffice/3/user/gallery
+20	./Desktop/tic ctac toe
+20	./Desktop/tic ctac toe
+20	./.gnome2
+20	./.gnome2
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+228	./.gconf/apps
+228	./.gconf/apps
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+248	./.gconf
+248	./.gconf
+24	./.compiz-1/session
+24	./.compiz-1/session
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+2808	./.local/share/zeitgeist
+2808	./.local/share/zeitgeist
+28	./.cache/sso
+28	./.cache/sso
+28	./.compiz-1
+28	./.compiz-1
+28	./.config/libreoffice/3/user/basic
+28	./.config/libreoffice/3/user/basic
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+28	./.gconf/apps/metacity
+28	./.gconf/apps/metacity
+28	./.local/share/webkit/icondatabase
+28	./.local/share/webkit/icondatabase
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+3
+3120	./.local/share
+3120	./.local/share
+3124	./.local
+3124	./.local
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+32	./.config/libreoffice/3/user/config/soffice.cfg
+32	./.config/libreoffice/3/user/config/soffice.cfg
+32	./.fontconfig
+32	./.fontconfig
+32	./.local/share/webkit
+32	./.local/share/webkit
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+32	./.pulse
+32	./.pulse
+332	./.thumbnails/normal
+332	./.thumbnails/normal
+352	./.thumbnails
+352	./.thumbnails
+356	./CN_lab
+356	./CN_lab
+3664	./.cache/software-center/piston-helper
+3664	./.cache/software-center/piston-helper
+36	./.config/libreoffice/3/user/backup
+36	./.config/libreoffice/3/user/backup
+36	./.gconf/apps/compiz-1/plugins
+36	./.gconf/apps/compiz-1/plugins
+36	./.gconf/apps/gedit-2/preferences/editor
+36	./.gconf/apps/gedit-2/preferences/editor
+36	./.local/share/Trash
+36	./.local/share/Trash
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+388	./.gstreamer-0.10
+388	./.gstreamer-0.10
+4
+40	./.config/libreoffice/3/user/extensions/shared/registry
+40	./.config/libreoffice/3/user/extensions/shared/registry
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+436	./.config/libreoffice/3/user/config
+436	./.config/libreoffice/3/user/config
+448	./.cache/software-center/download-cache
+448	./.cache/software-center/download-cache
+44	./.config/libreoffice/3/user/psprint
+44	./.config/libreoffice/3/user/psprint
+44	./OS/lab4
+44	./OS/lab4
+464	./.cache/wallpaper
+464	./.cache/wallpaper
+48	./.cache/software-center/icons
+48	./.cache/software-center/icons
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+4	./.cache/dconf
+4	./.cache/dconf
+4	./.cache/gvfs-burn
+4	./.cache/gvfs-burn
+4	./.cache/indicator/sound/album-art-cache
+4	./.cache/indicator/sound/album-art-cache
+4	./.cache/software-center/rnrclient
+4	./.cache/software-center/rnrclient
+4	./.config/compiz-1/compizconfig
+4	./.config/compiz-1/compizconfig
+4	./.config/enchant
+4	./.config/enchant
+4	./.config/gnome-disk-utility/ata-smart-ignore
+4	./.config/gnome-disk-utility/ata-smart-ignore
+4	./.config/gnome-session/saved-session
+4	./.config/gnome-session/saved-session
+4	./.config/goa-1.0
+4	./.config/goa-1.0
+4	./.config/ibus/bus
+4	./.config/ibus/bus
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+4	./.config/libreoffice/3/user/psprint/fontmetric
+4	./.config/libreoffice/3/user/Scripts
+4	./.config/libreoffice/3/user/Scripts
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/wordbook
+4	./.config/libreoffice/3/user/wordbook
+4	./.config/software-center
+4	./.config/software-center
+4	./Documents
+4	./Documents
+4	./Downloads
+4	./Downloads
+4	./.gnome2/nautilus-scripts
+4	./.gnome2/nautilus-scripts
+4	./.local/share/icc
+4	./.local/share/icc
+4	./.local/share/Trash/expunged
+4	./.local/share/Trash/expunged
+4	./.mozilla/extensions
+4	./.mozilla/extensions
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+4	./.mozilla/firefox/m6g11jws.default/extensions
+4	./.mozilla/firefox/m6g11jws.default/extensions
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./Music
+4	./Music
+4	./Pictures
+4	./Pictures
+4	./Public
+4	./Public
+4	./Templates
+4	./Templates
+4	./Videos
+4	./Videos
+5
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+52	./.gconf/apps/gedit-2/preferences
+52	./.gconf/apps/gedit-2/preferences
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+56	./.config/libreoffice/3/user/extensions/shared
+56	./.config/libreoffice/3/user/extensions/shared
+56	./.config/libreoffice/3/user/uno_packages/cache
+56	./.config/libreoffice/3/user/uno_packages/cache
+56	./.gconf/apps/compiz-1
+56	./.gconf/apps/compiz-1
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+60	./.cache/oneconf
+60	./.cache/oneconf
+60	./.config/libreoffice/3/user/uno_packages
+60	./.config/libreoffice/3/user/uno_packages
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+6152	./.cache/software-center/software-center-agent.db
+6152	./.cache/software-center/software-center-agent.db
+64	./.gconf/apps/gedit-2
+64	./.gconf/apps/gedit-2
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+67692	./.mozilla/firefox/m6g11jws.default
+67692	./.mozilla/firefox/m6g11jws.default
+67708	./.mozilla/firefox
+67708	./.mozilla/firefox
+67716	./.mozilla
+67716	./.mozilla
+68	./.config/libreoffice/3/user/extensions/bundled
+68	./.config/libreoffice/3/user/extensions/bundled
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+76	./Desktop/OS/Lab3
+76	./Desktop/OS/Lab3
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+892	./.config/libreoffice/3/user/database/biblio
+892	./.config/libreoffice/3/user/database/biblio
+8976	./Desktop/OS
+8976	./Desktop/OS
+8	./.cache/indicator-appmenu
+8	./.cache/indicator-appmenu
+8	./.cache/indicators/messages
+8	./.cache/indicators/messages
+8	./.cache/indicator/sound
+8	./.cache/indicator/sound
+8	./.cache/ubuntuone/log
+8	./.cache/ubuntuone/log
+8	./.cache/unity
+8	./.cache/unity
+8	./.cache/unity-lens-video
+8	./.cache/unity-lens-video
+8	./.cache/update-manager-core
+8	./.cache/update-manager-core
+8	./.config/compiz-1
+8	./.config/compiz-1
+8	./.config/gnome-control-center/backgrounds
+8	./.config/gnome-control-center/backgrounds
+8	./.config/gnome-disk-utility
+8	./.config/gnome-disk-utility
+8	./.config/gnome-session
+8	./.config/gnome-session
+8	./.config/ibus
+8	./.config/ibus
+8	./.config/libreoffice/3/user/autotext
+8	./.config/libreoffice/3/user/autotext
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/nautilus
+8	./.config/nautilus
+8	./.config/update-notifier
+8	./.config/update-notifier
+8	./.dbus/session-bus
+8	./.dbus/session-bus
+8	./.gconf/apps/compiz-1/general/screen0/options
+8	./.gconf/apps/compiz-1/general/screen0/options
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/deja-dup/s3
+8	./.gconf/apps/deja-dup/s3
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+8	./.gconf/apps/gnome-terminal/profiles/Default
+8	./.gconf/apps/gnome-terminal/profiles/Default
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+8	./.gconf/apps/nautilus/preferences
+8	./.gconf/apps/nautilus/preferences
+8	./.gconf/apps/nm-applet
+8	./.gconf/apps/nm-applet
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/update-notifier
+8	./.gconf/desktop/gnome/background
+8	./.gconf/desktop/gnome/background
+8	./.local/share/telepathy/mission-control
+8	./.local/share/telepathy/mission-control
+8	./.mission-control/accounts
+8	./.mission-control/accounts
+8	./.mozilla/firefox/Crash Reports
+8	./.mozilla/firefox/Crash Reports
+900	./.config/libreoffice/3/user/database
+900	./.config/libreoffice/3/user/database
+9080	./Desktop
+9080	./Desktop
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+98196	.
+98208	.
+       -a, --all
+AUTHOR
+ -B <dirs>  define binaries lookup path
+ -b         search only binaries
+clientcp.c
+              convert all blanks, instead of just initial blanks
+       Convert  blanks in each FILE to tabs, writing to standard output.  With
+              convert only leading sequences of blanks (overrides -a)
+COPYRIGHT
+       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU
+decrypt.c
+DESCRIPTION
+/dev/sda1        6273620 2809800   3149248  48% /
+/dev/sda1        6273620 2809812   3149236  48% /
+encrypt.c
+       expand(1)
+f:
+f:
+ -f <file>  define search scope
+Filesystem     1K-blocks    Used Available Use% Mounted on
+Filesystem     1K-blocks    Used Available Use% Mounted on
+       --first-only
+       General help using GNU software: <http://www.gnu.org/gethelp/>
+GNU coreutils 8.12.197-032bb    September 2011                     UNEXPAND(1)
+       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
+       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+              have tabs N characters apart instead of 8 (enables -a)
+ -h         display this help and exit
+       --help display this help and exit
+       If  the info and unexpand programs are properly installed at your site,
+              info coreutils 'unexpand invocation'
+       ject.org/team/>
+       Mandatory arguments to long options are  mandatory  for  short  options
+ -M <dirs>  define man lookup path
+ -m         search only manual paths
+NAME
+NAME     LINE         TIME             COMMENT
+       no FILE, or when FILE is -, read standard input.
+none             1030528      76   1030452   1% /run/shm
+none             1030528      76   1030452   1% /run/shm
+none                5120       0      5120   0% /run/lock
+none                5120       0      5120   0% /run/lock
+Options:
+              output version information and exit
+raj      pts/0        :0               Tue Feb  3 10:39 - crash  (00:00)    
+raj      pts/0        :0               Wed Feb 11 17:45 - 18:41  (00:55)    
+raj      pts/0        :0               Wed Feb 11 23:22 - crash (1+15:10)   
+raj      pts/0        :0               Wed Feb  4 22:35 - crash (6+17:37)   
+raj      pts/1        :0               Fri Feb 13 14:34 - crash  (00:00)    
+raj      pts/1        :0               Tue Feb 17 11:03   still logged in   
+raj      pts/1        :0               Tue Feb  3 23:31 - crash  (00:00)    
+raj      pts/1        :0               Wed Feb 11 23:29 - 00:52  (01:23)    
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:32 - 12:36 (3+22:03)   
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:34 - 12:36 (3+22:01)   
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:00 - 12:36  (01:35)    
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:02 - 12:36  (01:33)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:38 - 11:40  (01:01)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:40 - 11:40  (00:59)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:30 - 01:38  (02:08)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:32 - 01:38  (02:06)    
+reboot   system boot  3.2.0-23-generic Wed Feb 11 16:13 - 12:36 (5+20:23)   
+reboot   system boot  3.2.0-23-generic Wed Feb  4 22:33 - 12:36 (12+14:03)  
+REPORTING BUGS
+       Report unexpand bugs to bug-coreutils@gnu.org
+       Report    unexpand    translation   bugs   to   <http://translationpro‐
+ -S <dirs>  define sources lookup path
+SEE ALSO
+See how to use file and dirs arguments from whereis(1) manual.
+servercp.c
+       should give you access to the complete manual.
+simpleclient.c
+simpleserver.c
+ -s         search only sources path
+SYNOPSIS
+       the command
+       The full documentation for unexpand is maintained as a Texinfo  manual.
+       There is NO WARRANTY, to the extent permitted by law.
+       This  is  free  software:  you  are free to change and redistribute it.
+tmpfs             412212     792    411420   1% /run
+tmpfs             412212     792    411420   1% /run
+       too.
+       -t, --tabs=LIST
+       -t, --tabs=N
+ttclient.c
+ttserver.c
+ubuntu
+ubuntu
+udev             1023256       4   1023252   1% /dev
+udev             1023256       4   1023252   1% /dev
+UNEXPAND(1)                      User Commands                     UNEXPAND(1)
+       unexpand - convert spaces to tabs
+       unexpand [OPTION]... [FILE]...
+Usage:
+ -u         search from unusual enties
+              use comma separated LIST of tab positions (enables -a)
+       --version
+ -V         output version information and exit
+ whereis [options] file
+       Written by David MacKenzie.
+wtmp begins Tue Feb  3 10:38:44 2015
+1
+2
+3
+4
+5
+ubuntu
+ubuntu
+4	./Pictures
+8	./.dbus/session-bus
+12	./.dbus
+4	./.config/enchant
+16	./.config/gedit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+8	./.config/nautilus
+8	./.config/update-notifier
+4	./.config/software-center
+8	./.config/libreoffice/3/user/autotext
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+56	./.config/libreoffice/3/user/uno_packages/cache
+60	./.config/libreoffice/3/user/uno_packages
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+44	./.config/libreoffice/3/user/psprint
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/wordbook
+892	./.config/libreoffice/3/user/database/biblio
+900	./.config/libreoffice/3/user/database
+36	./.config/libreoffice/3/user/backup
+20	./.config/libreoffice/3/user/gallery
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+32	./.config/libreoffice/3/user/config/soffice.cfg
+436	./.config/libreoffice/3/user/config
+16	./.config/libreoffice/3/user/basic/Standard
+28	./.config/libreoffice/3/user/basic
+4	./.config/libreoffice/3/user/Scripts
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+68	./.config/libreoffice/3/user/extensions/bundled
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/extensions/shared/registry
+56	./.config/libreoffice/3/user/extensions/shared
+128	./.config/libreoffice/3/user/extensions
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+4	./.config/gnome-disk-utility/ata-smart-ignore
+8	./.config/gnome-disk-utility
+12	./.config/dconf
+4	./.config/ibus/bus
+8	./.config/ibus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+4	./.config/goa-1.0
+4	./.config/compiz-1/compizconfig
+8	./.config/compiz-1
+1828	./.config
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/extensions
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+67692	./.mozilla/firefox/m6g11jws.default
+8	./.mozilla/firefox/Crash Reports
+67708	./.mozilla/firefox
+4	./.mozilla/extensions
+67716	./.mozilla
+8	./.mission-control/accounts
+12	./.mission-control
+1428	./.local/share/zeitgeist/fts.index
+2808	./.local/share/zeitgeist
+28	./.local/share/webkit/icondatabase
+32	./.local/share/webkit
+16	./.local/share/Trash/files
+4	./.local/share/Trash/expunged
+12	./.local/share/Trash/info
+36	./.local/share/Trash
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/icc
+192	./.local/share/gvfs-metadata
+3120	./.local/share
+3124	./.local
+32	./.pulse
+8	./.gconf/apps/deja-dup/s3
+16	./.gconf/apps/deja-dup
+8	./.gconf/apps/nautilus/preferences
+12	./.gconf/apps/nautilus
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+36	./.gconf/apps/gedit-2/preferences/editor
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+12	./.gconf/apps/gedit-2/preferences/ui
+52	./.gconf/apps/gedit-2/preferences
+64	./.gconf/apps/gedit-2
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+28	./.gconf/apps/metacity
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+16	./.gconf/apps/compiz-1/plugins/unityshell
+36	./.gconf/apps/compiz-1/plugins
+8	./.gconf/apps/compiz-1/general/screen0/options
+12	./.gconf/apps/compiz-1/general/screen0
+16	./.gconf/apps/compiz-1/general
+56	./.gconf/apps/compiz-1
+8	./.gconf/apps/nm-applet
+228	./.gconf/apps
+8	./.gconf/desktop/gnome/background
+12	./.gconf/desktop/gnome
+16	./.gconf/desktop
+248	./.gconf
+32	./.fontconfig
+12	./.gnome2/keyrings
+4	./.gnome2/nautilus-scripts
+20	./.gnome2
+4	./Music
+4	./Documents
+332	./.thumbnails/normal
+12	./.thumbnails/fail/gnome-thumbnail-factory
+16	./.thumbnails/fail
+352	./.thumbnails
+44	./OS/lab4
+104	./OS
+4	./Public
+20	./Desktop/tic ctac toe
+12	./Desktop/OS/L4
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+76	./Desktop/OS/Lab3
+8976	./Desktop/OS
+9080	./Desktop
+356	./CN_lab
+8	./.cache/update-manager-core
+8	./.cache/unity
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+60	./.cache/oneconf
+28	./.cache/sso
+448	./.cache/software-center/download-cache
+3664	./.cache/software-center/piston-helper
+4	./.cache/software-center/rnrclient
+48	./.cache/software-center/icons
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+6152	./.cache/software-center/software-center-agent.db
+12588	./.cache/software-center
+116	./.cache/compizconfig-1
+8	./.cache/ubuntuone/log
+12	./.cache/ubuntuone
+8	./.cache/indicators/messages
+12	./.cache/indicators
+4	./.cache/gvfs-burn
+8	./.cache/indicator-appmenu
+4	./.cache/dconf
+4	./.cache/indicator/sound/album-art-cache
+8	./.cache/indicator/sound
+12	./.cache/indicator
+8	./.cache/unity-lens-video
+464	./.cache/wallpaper
+13336	./.cache
+4	./Downloads
+4	./Templates
+24	./.compiz-1/session
+28	./.compiz-1
+388	./.gstreamer-0.10
+4	./Videos
+0	./.gvfs
+98196	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda1        6273620 2809800   3149248  48% /
+udev             1023256       4   1023252   1% /dev
+tmpfs             412212     792    411420   1% /run
+none                5120       0      5120   0% /run/lock
+none             1030528      76   1030452   1% /run/shm
+4	./Pictures
+8	./.dbus/session-bus
+12	./.dbus
+4	./.config/enchant
+16	./.config/gedit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+8	./.config/nautilus
+8	./.config/update-notifier
+4	./.config/software-center
+8	./.config/libreoffice/3/user/autotext
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+56	./.config/libreoffice/3/user/uno_packages/cache
+60	./.config/libreoffice/3/user/uno_packages
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+44	./.config/libreoffice/3/user/psprint
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/wordbook
+892	./.config/libreoffice/3/user/database/biblio
+900	./.config/libreoffice/3/user/database
+36	./.config/libreoffice/3/user/backup
+20	./.config/libreoffice/3/user/gallery
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+32	./.config/libreoffice/3/user/config/soffice.cfg
+436	./.config/libreoffice/3/user/config
+16	./.config/libreoffice/3/user/basic/Standard
+28	./.config/libreoffice/3/user/basic
+4	./.config/libreoffice/3/user/Scripts
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+68	./.config/libreoffice/3/user/extensions/bundled
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/extensions/shared/registry
+56	./.config/libreoffice/3/user/extensions/shared
+128	./.config/libreoffice/3/user/extensions
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+4	./.config/gnome-disk-utility/ata-smart-ignore
+8	./.config/gnome-disk-utility
+12	./.config/dconf
+4	./.config/ibus/bus
+8	./.config/ibus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+4	./.config/goa-1.0
+4	./.config/compiz-1/compizconfig
+8	./.config/compiz-1
+1828	./.config
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/extensions
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+67692	./.mozilla/firefox/m6g11jws.default
+8	./.mozilla/firefox/Crash Reports
+67708	./.mozilla/firefox
+4	./.mozilla/extensions
+67716	./.mozilla
+8	./.mission-control/accounts
+12	./.mission-control
+1428	./.local/share/zeitgeist/fts.index
+2808	./.local/share/zeitgeist
+28	./.local/share/webkit/icondatabase
+32	./.local/share/webkit
+16	./.local/share/Trash/files
+4	./.local/share/Trash/expunged
+12	./.local/share/Trash/info
+36	./.local/share/Trash
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/icc
+192	./.local/share/gvfs-metadata
+3120	./.local/share
+3124	./.local
+32	./.pulse
+8	./.gconf/apps/deja-dup/s3
+16	./.gconf/apps/deja-dup
+8	./.gconf/apps/nautilus/preferences
+12	./.gconf/apps/nautilus
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+36	./.gconf/apps/gedit-2/preferences/editor
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+12	./.gconf/apps/gedit-2/preferences/ui
+52	./.gconf/apps/gedit-2/preferences
+64	./.gconf/apps/gedit-2
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+28	./.gconf/apps/metacity
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+16	./.gconf/apps/compiz-1/plugins/unityshell
+36	./.gconf/apps/compiz-1/plugins
+8	./.gconf/apps/compiz-1/general/screen0/options
+12	./.gconf/apps/compiz-1/general/screen0
+16	./.gconf/apps/compiz-1/general
+56	./.gconf/apps/compiz-1
+8	./.gconf/apps/nm-applet
+228	./.gconf/apps
+8	./.gconf/desktop/gnome/background
+12	./.gconf/desktop/gnome
+16	./.gconf/desktop
+248	./.gconf
+32	./.fontconfig
+12	./.gnome2/keyrings
+4	./.gnome2/nautilus-scripts
+20	./.gnome2
+4	./Music
+4	./Documents
+332	./.thumbnails/normal
+12	./.thumbnails/fail/gnome-thumbnail-factory
+16	./.thumbnails/fail
+352	./.thumbnails
+44	./OS/lab4
+104	./OS
+4	./Public
+20	./Desktop/tic ctac toe
+12	./Desktop/OS/L4
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+76	./Desktop/OS/Lab3
+8976	./Desktop/OS
+9080	./Desktop
+356	./CN_lab
+8	./.cache/update-manager-core
+8	./.cache/unity
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+60	./.cache/oneconf
+28	./.cache/sso
+448	./.cache/software-center/download-cache
+3664	./.cache/software-center/piston-helper
+4	./.cache/software-center/rnrclient
+48	./.cache/software-center/icons
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+6152	./.cache/software-center/software-center-agent.db
+12588	./.cache/software-center
+116	./.cache/compizconfig-1
+8	./.cache/ubuntuone/log
+12	./.cache/ubuntuone
+8	./.cache/indicators/messages
+12	./.cache/indicators
+4	./.cache/gvfs-burn
+8	./.cache/indicator-appmenu
+4	./.cache/dconf
+4	./.cache/indicator/sound/album-art-cache
+8	./.cache/indicator/sound
+12	./.cache/indicator
+8	./.cache/unity-lens-video
+464	./.cache/wallpaper
+13336	./.cache
+4	./Downloads
+4	./Templates
+24	./.compiz-1/session
+28	./.compiz-1
+388	./.gstreamer-0.10
+4	./Videos
+0	./.gvfs
+98208	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda1        6273620 2809812   3149236  48% /
+udev             1023256       4   1023252   1% /dev
+tmpfs             412212     792    411420   1% /run
+none                5120       0      5120   0% /run/lock
+none             1030528      76   1030452   1% /run/shm
+raj      pts/1        2015-02-17 11:03 (:0)
+NAME     LINE         TIME             COMMENT
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+
+Usage:
+ whereis [options] file
+
+Options:
+ -f <file>  define search scope
+ -b         search only binaries
+ -B <dirs>  define binaries lookup path
+ -m         search only manual paths
+ -M <dirs>  define man lookup path
+ -s         search only sources path
+ -S <dirs>  define sources lookup path
+ -u         search from unusual enties
+ -V         output version information and exit
+ -h         display this help and exit
+
+See how to use file and dirs arguments from whereis(1) manual.
+f:
+f:
+raj      pts/1        :0               Tue Feb 17 11:03   still logged in   
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:02 - 12:36  (01:33)    
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:00 - 12:36  (01:35)    
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:34 - 12:36 (3+22:01)   
+raj      pts/1        :0               Fri Feb 13 14:34 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:32 - 12:36 (3+22:03)   
+raj      pts/1        :0               Wed Feb 11 23:29 - 00:52  (01:23)    
+raj      pts/0        :0               Wed Feb 11 23:22 - crash (1+15:10)   
+raj      pts/0        :0               Wed Feb 11 17:45 - 18:41  (00:55)    
+reboot   system boot  3.2.0-23-generic Wed Feb 11 16:13 - 12:36 (5+20:23)   
+raj      pts/0        :0               Wed Feb  4 22:35 - crash (6+17:37)   
+reboot   system boot  3.2.0-23-generic Wed Feb  4 22:33 - 12:36 (12+14:03)  
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:32 - 01:38  (02:06)    
+raj      pts/1        :0               Tue Feb  3 23:31 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:30 - 01:38  (02:08)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:40 - 11:40  (00:59)    
+raj      pts/0        :0               Tue Feb  3 10:39 - crash  (00:00)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:38 - 11:40  (01:01)    
+
+wtmp begins Tue Feb  3 10:38:44 2015
+clientcp.c
+decrypt.c
+encrypt.c
+servercp.c
+simpleclient.c
+simpleserver.c
+ttclient.c
+ttserver.c
+UNEXPAND(1)                      User Commands                     UNEXPAND(1)
+
+
+
+NAME
+       unexpand - convert spaces to tabs
+
+SYNOPSIS
+       unexpand [OPTION]... [FILE]...
+
+DESCRIPTION
+       Convert  blanks in each FILE to tabs, writing to standard output.  With
+       no FILE, or when FILE is -, read standard input.
+
+       Mandatory arguments to long options are  mandatory  for  short  options
+       too.
+
+       -a, --all
+	      convert all blanks, instead of just initial blanks
+
+       --first-only
+	      convert only leading sequences of blanks (overrides -a)
+
+       -t, --tabs=N
+	      have tabs N characters apart instead of 8 (enables -a)
+
+       -t, --tabs=LIST
+	      use comma separated LIST of tab positions (enables -a)
+
+       --help display this help and exit
+
+       --version
+	      output version information and exit
+
+AUTHOR
+       Written by David MacKenzie.
+
+REPORTING BUGS
+       Report unexpand bugs to bug-coreutils@gnu.org
+       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
+       General help using GNU software: <http://www.gnu.org/gethelp/>
+       Report    unexpand    translation   bugs   to   <http://translationpro‐
+       ject.org/team/>
+
+COPYRIGHT
+       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU
+       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+       This  is  free  software:  you  are free to change and redistribute it.
+       There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       expand(1)
+
+       The full documentation for unexpand is maintained as a Texinfo  manual.
+       If  the info and unexpand programs are properly installed at your site,
+       the command
+
+	      info coreutils 'unexpand invocation'
+
+       should give you access to the complete manual.
+
+
+
+GNU coreutils 8.12.197-032bb    September 2011                     UNEXPAND(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	./.gvfs
+0	./.gvfs
+1
+104	./OS
+104	./OS
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+116	./.cache/compizconfig-1
+116	./.cache/compizconfig-1
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+12588	./.cache/software-center
+12588	./.cache/software-center
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+128	./.config/libreoffice/3/user/extensions
+128	./.config/libreoffice/3/user/extensions
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+12	./.cache/indicator
+12	./.cache/indicator
+12	./.cache/indicators
+12	./.cache/indicators
+12	./.cache/ubuntuone
+12	./.cache/ubuntuone
+12	./.config/dconf
+12	./.config/dconf
+12	./.config/gnome-control-center
+12	./.config/gnome-control-center
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+12	./.dbus
+12	./.dbus
+12	./Desktop/OS/L4
+12	./Desktop/OS/L4
+12	./.gconf/apps/compiz-1/general/screen0
+12	./.gconf/apps/compiz-1/general/screen0
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+12	./.gconf/apps/gedit-2/preferences/ui
+12	./.gconf/apps/gedit-2/preferences/ui
+12	./.gconf/apps/gnome-terminal/profiles
+12	./.gconf/apps/gnome-terminal/profiles
+12	./.gconf/apps/nautilus
+12	./.gconf/apps/nautilus
+12	./.gconf/desktop/gnome
+12	./.gconf/desktop/gnome
+12	./.gnome2/keyrings
+12	./.gnome2/keyrings
+12	./.local/share/telepathy
+12	./.local/share/telepathy
+12	./.local/share/Trash/info
+12	./.local/share/Trash/info
+12	./.mission-control
+12	./.mission-control
+12	./.thumbnails/fail/gnome-thumbnail-factory
+12	./.thumbnails/fail/gnome-thumbnail-factory
+13336	./.cache
+13336	./.cache
+1428	./.local/share/zeitgeist/fts.index
+1428	./.local/share/zeitgeist/fts.index
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+16	./.config/gedit
+16	./.config/gedit
+16	./.config/libreoffice/3/user/basic/Standard
+16	./.config/libreoffice/3/user/basic/Standard
+16	./.gconf/apps/compiz-1/general
+16	./.gconf/apps/compiz-1/general
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+16	./.gconf/apps/compiz-1/plugins/unityshell
+16	./.gconf/apps/compiz-1/plugins/unityshell
+16	./.gconf/apps/deja-dup
+16	./.gconf/apps/deja-dup
+16	./.gconf/apps/gnome-terminal
+16	./.gconf/apps/gnome-terminal
+16	./.gconf/desktop
+16	./.gconf/desktop
+16	./.local/share/Trash/files
+16	./.local/share/Trash/files
+16	./.thumbnails/fail
+16	./.thumbnails/fail
+1704	./.config/libreoffice/3/user
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+1716	./.config/libreoffice
+1828	./.config
+1828	./.config
+192	./.local/share/gvfs-metadata
+192	./.local/share/gvfs-metadata
+2
+20	./.config/libreoffice/3/user/gallery
+20	./.config/libreoffice/3/user/gallery
+20	./Desktop/tic ctac toe
+20	./Desktop/tic ctac toe
+20	./.gnome2
+20	./.gnome2
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+228	./.gconf/apps
+228	./.gconf/apps
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+248	./.gconf
+248	./.gconf
+24	./.compiz-1/session
+24	./.compiz-1/session
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+2808	./.local/share/zeitgeist
+2808	./.local/share/zeitgeist
+28	./.cache/sso
+28	./.cache/sso
+28	./.compiz-1
+28	./.compiz-1
+28	./.config/libreoffice/3/user/basic
+28	./.config/libreoffice/3/user/basic
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+28	./.gconf/apps/metacity
+28	./.gconf/apps/metacity
+28	./.local/share/webkit/icondatabase
+28	./.local/share/webkit/icondatabase
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+3
+3120	./.local/share
+3120	./.local/share
+3124	./.local
+3124	./.local
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+32	./.config/libreoffice/3/user/config/soffice.cfg
+32	./.config/libreoffice/3/user/config/soffice.cfg
+32	./.fontconfig
+32	./.fontconfig
+32	./.local/share/webkit
+32	./.local/share/webkit
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+32	./.pulse
+32	./.pulse
+332	./.thumbnails/normal
+332	./.thumbnails/normal
+352	./.thumbnails
+352	./.thumbnails
+356	./CN_lab
+356	./CN_lab
+3664	./.cache/software-center/piston-helper
+3664	./.cache/software-center/piston-helper
+36	./.config/libreoffice/3/user/backup
+36	./.config/libreoffice/3/user/backup
+36	./.gconf/apps/compiz-1/plugins
+36	./.gconf/apps/compiz-1/plugins
+36	./.gconf/apps/gedit-2/preferences/editor
+36	./.gconf/apps/gedit-2/preferences/editor
+36	./.local/share/Trash
+36	./.local/share/Trash
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+388	./.gstreamer-0.10
+388	./.gstreamer-0.10
+4
+40	./.config/libreoffice/3/user/extensions/shared/registry
+40	./.config/libreoffice/3/user/extensions/shared/registry
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+436	./.config/libreoffice/3/user/config
+436	./.config/libreoffice/3/user/config
+448	./.cache/software-center/download-cache
+448	./.cache/software-center/download-cache
+44	./.config/libreoffice/3/user/psprint
+44	./.config/libreoffice/3/user/psprint
+44	./OS/lab4
+44	./OS/lab4
+464	./.cache/wallpaper
+464	./.cache/wallpaper
+48	./.cache/software-center/icons
+48	./.cache/software-center/icons
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+4	./.cache/dconf
+4	./.cache/dconf
+4	./.cache/gvfs-burn
+4	./.cache/gvfs-burn
+4	./.cache/indicator/sound/album-art-cache
+4	./.cache/indicator/sound/album-art-cache
+4	./.cache/software-center/rnrclient
+4	./.cache/software-center/rnrclient
+4	./.config/compiz-1/compizconfig
+4	./.config/compiz-1/compizconfig
+4	./.config/enchant
+4	./.config/enchant
+4	./.config/gnome-disk-utility/ata-smart-ignore
+4	./.config/gnome-disk-utility/ata-smart-ignore
+4	./.config/gnome-session/saved-session
+4	./.config/gnome-session/saved-session
+4	./.config/goa-1.0
+4	./.config/goa-1.0
+4	./.config/ibus/bus
+4	./.config/ibus/bus
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+4	./.config/libreoffice/3/user/psprint/fontmetric
+4	./.config/libreoffice/3/user/Scripts
+4	./.config/libreoffice/3/user/Scripts
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/wordbook
+4	./.config/libreoffice/3/user/wordbook
+4	./.config/software-center
+4	./.config/software-center
+4	./Documents
+4	./Documents
+4	./Downloads
+4	./Downloads
+4	./.gnome2/nautilus-scripts
+4	./.gnome2/nautilus-scripts
+4	./.local/share/icc
+4	./.local/share/icc
+4	./.local/share/Trash/expunged
+4	./.local/share/Trash/expunged
+4	./.mozilla/extensions
+4	./.mozilla/extensions
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+4	./.mozilla/firefox/m6g11jws.default/extensions
+4	./.mozilla/firefox/m6g11jws.default/extensions
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./Music
+4	./Music
+4	./Pictures
+4	./Pictures
+4	./Public
+4	./Public
+4	./Templates
+4	./Templates
+4	./Videos
+4	./Videos
+5
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+52	./.gconf/apps/gedit-2/preferences
+52	./.gconf/apps/gedit-2/preferences
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+56	./.config/libreoffice/3/user/extensions/shared
+56	./.config/libreoffice/3/user/extensions/shared
+56	./.config/libreoffice/3/user/uno_packages/cache
+56	./.config/libreoffice/3/user/uno_packages/cache
+56	./.gconf/apps/compiz-1
+56	./.gconf/apps/compiz-1
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+60	./.cache/oneconf
+60	./.cache/oneconf
+60	./.config/libreoffice/3/user/uno_packages
+60	./.config/libreoffice/3/user/uno_packages
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+6152	./.cache/software-center/software-center-agent.db
+6152	./.cache/software-center/software-center-agent.db
+64	./.gconf/apps/gedit-2
+64	./.gconf/apps/gedit-2
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+67692	./.mozilla/firefox/m6g11jws.default
+67692	./.mozilla/firefox/m6g11jws.default
+67708	./.mozilla/firefox
+67708	./.mozilla/firefox
+67716	./.mozilla
+67716	./.mozilla
+68	./.config/libreoffice/3/user/extensions/bundled
+68	./.config/libreoffice/3/user/extensions/bundled
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+76	./Desktop/OS/Lab3
+76	./Desktop/OS/Lab3
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+892	./.config/libreoffice/3/user/database/biblio
+892	./.config/libreoffice/3/user/database/biblio
+8976	./Desktop/OS
+8976	./Desktop/OS
+8	./.cache/indicator-appmenu
+8	./.cache/indicator-appmenu
+8	./.cache/indicators/messages
+8	./.cache/indicators/messages
+8	./.cache/indicator/sound
+8	./.cache/indicator/sound
+8	./.cache/ubuntuone/log
+8	./.cache/ubuntuone/log
+8	./.cache/unity
+8	./.cache/unity
+8	./.cache/unity-lens-video
+8	./.cache/unity-lens-video
+8	./.cache/update-manager-core
+8	./.cache/update-manager-core
+8	./.config/compiz-1
+8	./.config/compiz-1
+8	./.config/gnome-control-center/backgrounds
+8	./.config/gnome-control-center/backgrounds
+8	./.config/gnome-disk-utility
+8	./.config/gnome-disk-utility
+8	./.config/gnome-session
+8	./.config/gnome-session
+8	./.config/ibus
+8	./.config/ibus
+8	./.config/libreoffice/3/user/autotext
+8	./.config/libreoffice/3/user/autotext
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/nautilus
+8	./.config/nautilus
+8	./.config/update-notifier
+8	./.config/update-notifier
+8	./.dbus/session-bus
+8	./.dbus/session-bus
+8	./.gconf/apps/compiz-1/general/screen0/options
+8	./.gconf/apps/compiz-1/general/screen0/options
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/deja-dup/s3
+8	./.gconf/apps/deja-dup/s3
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+8	./.gconf/apps/gnome-terminal/profiles/Default
+8	./.gconf/apps/gnome-terminal/profiles/Default
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+8	./.gconf/apps/nautilus/preferences
+8	./.gconf/apps/nautilus/preferences
+8	./.gconf/apps/nm-applet
+8	./.gconf/apps/nm-applet
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/update-notifier
+8	./.gconf/desktop/gnome/background
+8	./.gconf/desktop/gnome/background
+8	./.local/share/telepathy/mission-control
+8	./.local/share/telepathy/mission-control
+8	./.mission-control/accounts
+8	./.mission-control/accounts
+8	./.mozilla/firefox/Crash Reports
+8	./.mozilla/firefox/Crash Reports
+900	./.config/libreoffice/3/user/database
+900	./.config/libreoffice/3/user/database
+9080	./Desktop
+9080	./Desktop
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+98196	.
+98208	.
+       -a, --all
+AUTHOR
+ -B <dirs>  define binaries lookup path
+ -b         search only binaries
+clientcp.c
+	      convert all blanks, instead of just initial blanks
+       Convert  blanks in each FILE to tabs, writing to standard output.  With
+	      convert only leading sequences of blanks (overrides -a)
+COPYRIGHT
+       Copyright © 2011 Free Software Foundation, Inc.   License  GPLv3+:  GNU
+decrypt.c
+DESCRIPTION
+/dev/sda1        6273620 2809800   3149248  48% /
+/dev/sda1        6273620 2809812   3149236  48% /
+encrypt.c
+       expand(1)
+f:
+f:
+ -f <file>  define search scope
+Filesystem     1K-blocks    Used Available Use% Mounted on
+Filesystem     1K-blocks    Used Available Use% Mounted on
+       --first-only
+       General help using GNU software: <http://www.gnu.org/gethelp/>
+GNU coreutils 8.12.197-032bb    September 2011                     UNEXPAND(1)
+       GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
+       GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+	      have tabs N characters apart instead of 8 (enables -a)
+ -h         display this help and exit
+       --help display this help and exit
+       If  the info and unexpand programs are properly installed at your site,
+	      info coreutils 'unexpand invocation'
+       ject.org/team/>
+       Mandatory arguments to long options are  mandatory  for  short  options
+ -M <dirs>  define man lookup path
+ -m         search only manual paths
+NAME
+NAME     LINE         TIME             COMMENT
+       no FILE, or when FILE is -, read standard input.
+none             1030528      76   1030452   1% /run/shm
+none             1030528      76   1030452   1% /run/shm
+none                5120       0      5120   0% /run/lock
+none                5120       0      5120   0% /run/lock
+Options:
+	      output version information and exit
+raj      pts/0        :0               Tue Feb  3 10:39 - crash  (00:00)    
+raj      pts/0        :0               Wed Feb 11 17:45 - 18:41  (00:55)    
+raj      pts/0        :0               Wed Feb 11 23:22 - crash (1+15:10)   
+raj      pts/0        :0               Wed Feb  4 22:35 - crash (6+17:37)   
+raj      pts/1        :0               Fri Feb 13 14:34 - crash  (00:00)    
+raj      pts/1        :0               Tue Feb 17 11:03   still logged in   
+raj      pts/1        :0               Tue Feb  3 23:31 - crash  (00:00)    
+raj      pts/1        :0               Wed Feb 11 23:29 - 00:52  (01:23)    
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+raj      pts/1        2015-02-17 11:03 (:0)
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:32 - 12:36 (3+22:03)   
+reboot   system boot  3.2.0-23-generic Fri Feb 13 14:34 - 12:36 (3+22:01)   
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:00 - 12:36  (01:35)    
+reboot   system boot  3.2.0-23-generic Tue Feb 17 11:02 - 12:36  (01:33)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:38 - 11:40  (01:01)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 10:40 - 11:40  (00:59)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:30 - 01:38  (02:08)    
+reboot   system boot  3.2.0-23-generic Tue Feb  3 23:32 - 01:38  (02:06)    
+reboot   system boot  3.2.0-23-generic Wed Feb 11 16:13 - 12:36 (5+20:23)   
+reboot   system boot  3.2.0-23-generic Wed Feb  4 22:33 - 12:36 (12+14:03)  
+REPORTING BUGS
+       Report unexpand bugs to bug-coreutils@gnu.org
+       Report    unexpand    translation   bugs   to   <http://translationpro‐
+ -S <dirs>  define sources lookup path
+SEE ALSO
+See how to use file and dirs arguments from whereis(1) manual.
+servercp.c
+       should give you access to the complete manual.
+simpleclient.c
+simpleserver.c
+ -s         search only sources path
+SYNOPSIS
+       the command
+       The full documentation for unexpand is maintained as a Texinfo  manual.
+       There is NO WARRANTY, to the extent permitted by law.
+       This  is  free  software:  you  are free to change and redistribute it.
+tmpfs             412212     792    411420   1% /run
+tmpfs             412212     792    411420   1% /run
+       too.
+       -t, --tabs=LIST
+       -t, --tabs=N
+ttclient.c
+ttserver.c
+ubuntu
+ubuntu
+udev             1023256       4   1023252   1% /dev
+udev             1023256       4   1023252   1% /dev
+UNEXPAND(1)                      User Commands                     UNEXPAND(1)
+       unexpand - convert spaces to tabs
+       unexpand [OPTION]... [FILE]...
+Usage:
+ -u         search from unusual enties
+	      use comma separated LIST of tab positions (enables -a)
+       --version
+ -V         output version information and exit
+ whereis [options] file
+       Written by David MacKenzie.
+wtmp begins Tue Feb  3 10:38:44 2015
+1
+2
+3
+4
+5
+ubuntu
+ubuntu
+4	./Pictures
+8	./.dbus/session-bus
+12	./.dbus
+4	./.config/enchant
+16	./.config/gedit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+8	./.config/nautilus
+8	./.config/update-notifier
+4	./.config/software-center
+8	./.config/libreoffice/3/user/autotext
+4	./.config/libreoffice/3/user/store
+4	./.config/libreoffice/3/user/uno_packages/cache/uno_packages
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/uno_packages/cache/registry
+56	./.config/libreoffice/3/user/uno_packages/cache
+60	./.config/libreoffice/3/user/uno_packages
+4	./.config/libreoffice/3/user/template
+4	./.config/libreoffice/3/user/autocorr
+4	./.config/libreoffice/3/user/psprint/driver
+4	./.config/libreoffice/3/user/psprint/fontmetric
+44	./.config/libreoffice/3/user/psprint
+4	./.config/libreoffice/3/user/temp
+4	./.config/libreoffice/3/user/wordbook
+892	./.config/libreoffice/3/user/database/biblio
+900	./.config/libreoffice/3/user/database
+36	./.config/libreoffice/3/user/backup
+20	./.config/libreoffice/3/user/gallery
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/3/user/config/soffice.cfg/modules/swriter
+28	./.config/libreoffice/3/user/config/soffice.cfg/modules
+32	./.config/libreoffice/3/user/config/soffice.cfg
+436	./.config/libreoffice/3/user/config
+16	./.config/libreoffice/3/user/basic/Standard
+28	./.config/libreoffice/3/user/basic
+4	./.config/libreoffice/3/user/Scripts
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+12	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+52	./.config/libreoffice/3/user/extensions/bundled/registry
+68	./.config/libreoffice/3/user/extensions/bundled
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+8	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/3/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+40	./.config/libreoffice/3/user/extensions/shared/registry
+56	./.config/libreoffice/3/user/extensions/shared
+128	./.config/libreoffice/3/user/extensions
+1704	./.config/libreoffice/3/user
+1712	./.config/libreoffice/3
+1716	./.config/libreoffice
+4	./.config/gnome-disk-utility/ata-smart-ignore
+8	./.config/gnome-disk-utility
+12	./.config/dconf
+4	./.config/ibus/bus
+8	./.config/ibus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+4	./.config/goa-1.0
+4	./.config/compiz-1/compizconfig
+8	./.config/compiz-1
+1828	./.config
+20	./.mozilla/firefox/m6g11jws.default/bookmarkbackups
+608	./.mozilla/firefox/m6g11jws.default/startupCache
+4	./.mozilla/firefox/m6g11jws.default/minidumps
+4	./.mozilla/firefox/m6g11jws.default/extensions
+316	./.mozilla/firefox/m6g11jws.default/Cache/A/80
+24	./.mozilla/firefox/m6g11jws.default/Cache/A/DC
+244	./.mozilla/firefox/m6g11jws.default/Cache/A/4E
+64	./.mozilla/firefox/m6g11jws.default/Cache/A/48
+652	./.mozilla/firefox/m6g11jws.default/Cache/A
+36	./.mozilla/firefox/m6g11jws.default/Cache/8/D8
+32	./.mozilla/firefox/m6g11jws.default/Cache/8/3A
+72	./.mozilla/firefox/m6g11jws.default/Cache/8
+4	./.mozilla/firefox/m6g11jws.default/Cache/B
+28	./.mozilla/firefox/m6g11jws.default/Cache/1/2F
+32	./.mozilla/firefox/m6g11jws.default/Cache/1/69
+64	./.mozilla/firefox/m6g11jws.default/Cache/1
+28	./.mozilla/firefox/m6g11jws.default/Cache/0/59
+4	./.mozilla/firefox/m6g11jws.default/Cache/0/F3
+36	./.mozilla/firefox/m6g11jws.default/Cache/0
+40	./.mozilla/firefox/m6g11jws.default/Cache/F/2C
+112	./.mozilla/firefox/m6g11jws.default/Cache/F/18
+84	./.mozilla/firefox/m6g11jws.default/Cache/F/C5
+240	./.mozilla/firefox/m6g11jws.default/Cache/F
+64	./.mozilla/firefox/m6g11jws.default/Cache/4/4F
+848	./.mozilla/firefox/m6g11jws.default/Cache/4/31
+916	./.mozilla/firefox/m6g11jws.default/Cache/4
+28	./.mozilla/firefox/m6g11jws.default/Cache/2/9E
+56	./.mozilla/firefox/m6g11jws.default/Cache/2/7A
+88	./.mozilla/firefox/m6g11jws.default/Cache/2
+60	./.mozilla/firefox/m6g11jws.default/Cache/7/DF
+28	./.mozilla/firefox/m6g11jws.default/Cache/7/27
+92	./.mozilla/firefox/m6g11jws.default/Cache/7
+764	./.mozilla/firefox/m6g11jws.default/Cache/5/0F
+4	./.mozilla/firefox/m6g11jws.default/Cache/5/1E
+24	./.mozilla/firefox/m6g11jws.default/Cache/5/E0
+796	./.mozilla/firefox/m6g11jws.default/Cache/5
+112	./.mozilla/firefox/m6g11jws.default/Cache/D/87
+28	./.mozilla/firefox/m6g11jws.default/Cache/D/21
+144	./.mozilla/firefox/m6g11jws.default/Cache/D
+68	./.mozilla/firefox/m6g11jws.default/Cache/E/47
+28	./.mozilla/firefox/m6g11jws.default/Cache/E/0C
+528	./.mozilla/firefox/m6g11jws.default/Cache/E/71
+36	./.mozilla/firefox/m6g11jws.default/Cache/E/9C
+56	./.mozilla/firefox/m6g11jws.default/Cache/E/7B
+112	./.mozilla/firefox/m6g11jws.default/Cache/E/31
+832	./.mozilla/firefox/m6g11jws.default/Cache/E
+28	./.mozilla/firefox/m6g11jws.default/Cache/C/A1
+24	./.mozilla/firefox/m6g11jws.default/Cache/C/39
+56	./.mozilla/firefox/m6g11jws.default/Cache/C/5E
+380	./.mozilla/firefox/m6g11jws.default/Cache/C/CA
+492	./.mozilla/firefox/m6g11jws.default/Cache/C
+128	./.mozilla/firefox/m6g11jws.default/Cache/3/7C
+28	./.mozilla/firefox/m6g11jws.default/Cache/3/6D
+160	./.mozilla/firefox/m6g11jws.default/Cache/3
+64	./.mozilla/firefox/m6g11jws.default/Cache/6/0F
+68	./.mozilla/firefox/m6g11jws.default/Cache/6
+112	./.mozilla/firefox/m6g11jws.default/Cache/9/ED
+116	./.mozilla/firefox/m6g11jws.default/Cache/9
+6104	./.mozilla/firefox/m6g11jws.default/Cache
+67692	./.mozilla/firefox/m6g11jws.default
+8	./.mozilla/firefox/Crash Reports
+67708	./.mozilla/firefox
+4	./.mozilla/extensions
+67716	./.mozilla
+8	./.mission-control/accounts
+12	./.mission-control
+1428	./.local/share/zeitgeist/fts.index
+2808	./.local/share/zeitgeist
+28	./.local/share/webkit/icondatabase
+32	./.local/share/webkit
+16	./.local/share/Trash/files
+4	./.local/share/Trash/expunged
+12	./.local/share/Trash/info
+36	./.local/share/Trash
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/icc
+192	./.local/share/gvfs-metadata
+3120	./.local/share
+3124	./.local
+32	./.pulse
+8	./.gconf/apps/deja-dup/s3
+16	./.gconf/apps/deja-dup
+8	./.gconf/apps/nautilus/preferences
+12	./.gconf/apps/nautilus
+8	./.gconf/apps/update-notifier
+8	./.gconf/apps/gedit-2/plugins
+8	./.gconf/apps/gedit-2/preferences/editor/save
+8	./.gconf/apps/gedit-2/preferences/editor/auto_indent
+8	./.gconf/apps/gedit-2/preferences/editor/bracket_matching
+8	./.gconf/apps/gedit-2/preferences/editor/line_numbers
+36	./.gconf/apps/gedit-2/preferences/editor
+8	./.gconf/apps/gedit-2/preferences/ui/statusbar
+12	./.gconf/apps/gedit-2/preferences/ui
+52	./.gconf/apps/gedit-2/preferences
+64	./.gconf/apps/gedit-2
+8	./.gconf/apps/compizconfig-1
+8	./.gconf/apps/update-manager
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+8	./.gconf/apps/metacity/general
+8	./.gconf/apps/metacity/global_keybindings
+8	./.gconf/apps/metacity/window_keybindings
+28	./.gconf/apps/metacity
+8	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0/options
+12	./.gconf/apps/compiz-1/plugins/gnomecompat/screen0
+16	./.gconf/apps/compiz-1/plugins/gnomecompat
+8	./.gconf/apps/compiz-1/plugins/unityshell/screen0/options
+12	./.gconf/apps/compiz-1/plugins/unityshell/screen0
+16	./.gconf/apps/compiz-1/plugins/unityshell
+36	./.gconf/apps/compiz-1/plugins
+8	./.gconf/apps/compiz-1/general/screen0/options
+12	./.gconf/apps/compiz-1/general/screen0
+16	./.gconf/apps/compiz-1/general
+56	./.gconf/apps/compiz-1
+8	./.gconf/apps/nm-applet
+228	./.gconf/apps
+8	./.gconf/desktop/gnome/background
+12	./.gconf/desktop/gnome
+16	./.gconf/desktop
+248	./.gconf
+32	./.fontconfig
+12	./.gnome2/keyrings
+4	./.gnome2/nautilus-scripts
+20	./.gnome2
+4	./Music
+4	./Documents
+332	./.thumbnails/normal
+12	./.thumbnails/fail/gnome-thumbnail-factory
+16	./.thumbnails/fail
+352	./.thumbnails
+44	./OS/lab4
+104	./OS
+4	./Public
+20	./Desktop/tic ctac toe
+12	./Desktop/OS/L4
+3788	./Desktop/OS/Operating Systems  CPU Scheduling_files
+1284	./Desktop/OS/HowTo  Use grep Command In Linux   UNIX – Examples_files
+76	./Desktop/OS/Lab3
+8976	./Desktop/OS
+9080	./Desktop
+356	./CN_lab
+8	./.cache/update-manager-core
+8	./.cache/unity
+56	./.cache/oneconf/a3ceb3feed9b51382f3de18b00000009
+60	./.cache/oneconf
+28	./.cache/sso
+448	./.cache/software-center/download-cache
+3664	./.cache/software-center/piston-helper
+4	./.cache/software-center/rnrclient
+48	./.cache/software-center/icons
+808	./.cache/software-center/reviews.ubuntu.com_reviews_api_1.0_review-stats-pkgnames.p__5.1.db.dbenv
+6152	./.cache/software-center/software-center-agent.db
+12588	./.cache/software-center
+116	./.cache/compizconfig-1
+8	./.cache/ubuntuone/log
+12	./.cache/ubuntuone
+8	./.cache/indicators/messages
+12	./.cache/indicators
+4	./.cache/gvfs-burn
+8	./.cache/indicator-appmenu
+4	./.cache/dconf
+4	./.cache/indicator/sound/album-art-cache
+8	./.cache/indicator/sound
+12	./.cache/indicator
+8	./.cache/unity-lens-video
+464	./.cache/wallpaper
+13336	./.cache
+4	./Downloads
+4	./Templates
+24	./.compiz-1/session
+28	./.compiz-1
+388	./.gstreamer-0.10
+4	./Videos
+0	./.gvfs
+98196	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda1        6273620 2809800   3149248  48% /
+udev             1023256       4   1023252   1% /dev
+tmpfs             412212     792    411420   1% /run
+none                5120       0      5120   0% /run/lock
+none             1030528      76   1030452   1% /run/shm
